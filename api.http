@@ -1,0 +1,5 @@
+@host=http://localhost:3000/v1
+
+### Route de test
+
+GET {{host}}/hello
