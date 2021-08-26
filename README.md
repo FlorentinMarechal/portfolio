@@ -7,7 +7,7 @@ Ce projet est un API REST  pour gérer une collection de jeux de sociétés
 - [NodeJS](https://nodejs.org/en/download/) (v12 ou +)
 - [PostgreSQL](https://www.postgresql.org/download/) (v12 ou +)
 - [Sqitch](https://sqitch.org/download/) (v1 ou +)
-- [Git](https://git-scm.com/downloads) ()
+- [Git](https://git-scm.com/downloads)
 
 Ces outils sont nécessaires à l'installation et au fonctionnement de l'API.
 
