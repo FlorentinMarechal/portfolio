@@ -3,3 +3,12 @@
 ### Route de test
 
 GET {{host}}/hello
+
+
+### Tout les jeux
+
+GET {{host}}/games
+
+### Un jeu
+
+GET {{host}}/game/3
